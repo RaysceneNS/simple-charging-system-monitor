@@ -29,7 +29,8 @@ Current through the led should be in the 1 to 6 ma range depending on ambient li
 
 - 1 pcs - 5mm Red LED, 2.1v vF
 - 1 pcs - TL431A adjustable shunt
-- 1 pcs - 27K resistor for voltage divider
+- 1 pcs - 10K-12K resistor for Current through TL431
+- 1 pcs - 6K8 resistor for voltage divider
 - 1 pcs - 6K8 resistor for voltage divider
 - 1 pcs - 3K3 resistor for led
-- 1 pcs - Small diode for increasing vForward of led (needed for red)
+- 1 pcs - NPN Transistor
